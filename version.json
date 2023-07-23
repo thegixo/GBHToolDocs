@@ -11,12 +11,16 @@
     },
     "gbh_tool_latest": {
         "name": "GBH Tool",
-        "version": "2.1.2.0",
+        "version": "2.1.3.2",
         "blender_version": "3.5.0",
-        "release_type": "stable",
+        "release_type": "alpha",
         "message": "Your feedback is highly appreciated and helpful, contact info is under the info panel.",
         "changelog": [
-            "fix: opening folders from add-on's preferences"
+            "feat: add GBH assets to Blender's asset browser from add-ons preferences",
+            "feat: report problems directly from info panel",
+            "improvement: update system is now using github releases and provides a direct download link",
+            "improvement: UI improvements",
+            "fix: add-on's behavior with Blender 4.0"
         ]
     }
 }
